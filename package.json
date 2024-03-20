@@ -33,11 +33,11 @@
         "name": "caoguanjie"
     },
     "bugs": {
-        "url": "https://github.com/caoguanjie/cordova-plugin-capacitor-jpush/issues"
+        "url": "https://github.com/ahhxyz/capacitor-jpush/issues"
     },
     "bundleDependencies": false,
     "cordova": {
-        "id": "cordova-plugin-capacitor-jpush.git",
+        "id": "capacitor-jpush.git",
         "platforms": [
             "ios",
             "android"
@@ -53,7 +53,7 @@
         "doc": "doc",
         "example": "example"
     },
-    "homepage": "https://github.com/caoguanjie/cordova-plugin-capacitor-jpush.git#readme",
+    "homepage": "https://github.com/ahhxyz/capacitor-jpush.git#readme",
     "keywords": [
         "JPush",
         "push",
