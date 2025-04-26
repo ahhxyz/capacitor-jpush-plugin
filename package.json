@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahhxyz/capacitor-jpush-plugin.git"
+    "url": "git+https://github.com/ahhxyz/jpush-capacitor-plugin.git"
   },
   "keywords": [
     "JPush",
@@ -21,15 +21,15 @@
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ahhxyz/capacitor-jpush-plugin/issues"
+    "url": "https://github.com/ahhxyz/jpush-capacitor-plugin/issues"
   },
-  "homepage": "https://github.com/ahhxyz/capacitor-jpush-plugin#readme",
+  "homepage": "https://github.com/ahhxyz/jpush-capacitor-plugin#readme",
   "devDependencies": {
     "cordova-plugin-device": "*",
     "cordova-plugin-jcore": ">=1.3.0"
   },
   "cordova": {
-    "id": "capacitor-jpush-plugin",
+    "id": "jpush-capacitor-plugin",
     "platforms": [
       "ios",
       "android"
